@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **a to-do list app** & **my first game** 
+🔭 &nbsp;I'm currently working on **a to-do list app** & **my first game**<br/>
 🌱 &nbsp;I'm currently learning **Kotlin**
 
 ### 🛠️ Tech Stack
