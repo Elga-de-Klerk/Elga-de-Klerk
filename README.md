@@ -9,7 +9,7 @@
 <h2>👩‍💻 About Me</h2>
 <ul>
   <li>💻 Full Stack Developer passionate about building modern web apps.</li>
-  <li>🌱 Currently learning Elixir.</li>
+  <li>🌱 Currently learning Phoenix & Elixir.</li>
   <li>🚀 Building products that solve real-world problems.</li>
   <li>🏔️ In my free time you'll find me on the trails.</li>
 </ul>
