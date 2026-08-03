@@ -21,8 +21,16 @@
 </p>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Elga-de-Klerk&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent&title_color=EF93C4&icon_color=EF93C4&text_color=FFFFFF&hide_border=true" style="height: 192px" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Elga-de-Klerk&layout=compact&langs_count=6&theme=transparent&title_color=EF93C4&text_color=FFFFFF&hide_border=true" style="height: 192px;" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api?username=Elga-de-Klerk&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent&title_color=EF93C4&icon_color=EF93C4&text_color=FFFFFF&hide_border=true" style="height: 192px" />
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Elga-de-Klerk&layout=compact&langs_count=6&theme=transparent&title_color=EF93C4&text_color=FFFFFF&hide_border=true" style="height: 192px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2>🔗 Connect With Me</h2>
